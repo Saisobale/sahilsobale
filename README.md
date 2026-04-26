@@ -4,7 +4,7 @@
 ## 👨‍💻 About Me
 - 🎓 I am a 3rd Year Computer Engineering Student
 - 💻 Interested in Software Development, Web Development, and Cloud Computing
-- 🌱 Currently learning Java, Python, Git, GitHub, and Frontend Development
+- 🌱 Currently learning Java, Python, Git, GitHub, and Frontend Development, backend development
 - 🚀 I enjoy building academic and mini projects
 - 📌 Goal: To become a skilled Software Engineer
 
