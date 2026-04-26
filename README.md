@@ -9,7 +9,7 @@
 - 📌 Goal: To become a skilled Software Engineer
 
 ## 🛠️ Skills
-- **Languages:** Java, Python, C, HTML, CSS
+- **Languages:** Java, Python, C, C++, HTML, CSS
 - **Tools:** Git, GitHub, VS Code 
 - **Concepts:** OOP, DBMS, Operating System, Computer Networks
 - **Currently Exploring:** Cloud Computing, Software Testing
