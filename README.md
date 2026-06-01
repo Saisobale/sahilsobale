@@ -2,15 +2,15 @@
 # Hi, I'm Sahil Sobale 👋
 
 ## 👨‍💻 About Me
-- 🎓 I am a 3rd Year Computer Engineering Student
+- 🎓 I am a 4rd Year Computer Engineering Student
 - 💻 Interested in Software Development, Web Development, and Cloud Computing
 - 🌱 Currently learning Java, Python, Git, GitHub, and Frontend Development, backend development
 - 🚀 I enjoy building academic and mini projects
 - 📌 Goal: To become a skilled Software Engineer
 
 ## 🛠️ Skills
-- **Languages:** Java, Python, C, C++, HTML, CSS
-- **Tools:** Git, GitHub, VS Code 
+- **Languages:** Java, Python, HTML, CSS
+- **Tools:** Git, GitHub, VS Code, Pstman,
 - **Concepts:** OOP, DBMS, Operating System, Computer Networks
 - **Currently Exploring:** Cloud Computing, Software Testing
 
