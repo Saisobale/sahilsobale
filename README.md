@@ -21,8 +21,7 @@
 - Contribute to open source
 
 ## 📫 Connect With Me
-- LinkedIn: [www.linkedin.com/in/
-sahil-sobale-2487082a0]
+- LinkedIn: [(https://www.linkedin.com/in/sahil-sobale)]
 - Email: [sahilsobale@gmail.com]
 
 ---
